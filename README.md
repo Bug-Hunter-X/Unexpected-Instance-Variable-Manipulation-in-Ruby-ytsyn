@@ -1,0 +1,1 @@
+This repository demonstrates a subtle issue in Ruby related to directly manipulating instance variables outside of defined methods. While functional, this approach can lead to inconsistent object state and hidden bugs. The `bug.rb` file showcases the problem, while `bugSolution.rb` offers a more robust approach.
